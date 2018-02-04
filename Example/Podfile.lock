@@ -1,0 +1,19 @@
+PODS:
+  - Kiwi (3.0.0)
+  - KLLayoutGuide (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - KLLayoutGuide (from `../`)
+
+EXTERNAL SOURCES:
+  KLLayoutGuide:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  KLLayoutGuide: 24f446f14d17af03f53124c88746b5c867af3900
+
+PODFILE CHECKSUM: a4ee73f9b8e74ac6cacd2a7b03cf8d73883bf82c
+
+COCOAPODS: 1.4.0
