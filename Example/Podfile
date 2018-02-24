@@ -8,6 +8,5 @@ target 'KLLayoutGuide_Example' do
   target 'KLLayoutGuide_Tests' do
     inherit! :search_paths
 
-    pod 'Kiwi'
   end
 end
